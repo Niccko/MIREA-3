@@ -1,0 +1,2 @@
+<class 'ZeroDivisionError'> division by zero in function named "func"
+	[<FrameSummary file d:\Programming\Python\MIREA 3\1_run_with_log\rwl.py, line 6 in run_with_log>, <FrameSummary file d:\Programming\Python\MIREA 3\1_run_with_log\main.py, line 5 in func>]
